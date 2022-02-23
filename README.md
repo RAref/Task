@@ -15,19 +15,24 @@
  
 First you need to create a virtual env 
 
-run this command to do it :
+run this command to do it 
 ```
 python -m venv venv 
 ```
 
-Then you need to activate :
+Then you need to activate 
 
 run this command to do it 
 ```
 source venv/bin/activate
 ```
 
-finally you need to install requirements library :
+if you use window os run this command
+
+```
+venv/Scripts/activate
+```
+finally you need to install requirements library 
 
 run this command to do it 
 ```
