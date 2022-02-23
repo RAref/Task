@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/96969288/155370719-11eca3f9-b0ef-4205-83af-6dd0a1a2aea7.jpeg"/>
+<img src="https://user-images.githubusercontent.com/96969288/155370719-11eca3f9-b0ef-4205-83af-6dd0a1a2aea7.jpeg" width="100" />
 
 # University
  This project contains four python file
