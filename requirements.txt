@@ -1,0 +1,6 @@
+matplotlib
+numpy
+biopython
+xlrd==1.2.0
+keras
+tensorflow
