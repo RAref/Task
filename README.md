@@ -1,5 +1,5 @@
 # University
- this project contains four python file
+ This project contains four python file
  
  1 : FCGR.py this is a class for classic and our FCGR Encoder
  
