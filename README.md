@@ -31,7 +31,7 @@ run this command to do it
 
 pip install -r requirements.txt 
 
-and execute the main file with 
+and execute the main file with this command 
 
 python Main.py 
 
